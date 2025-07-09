@@ -17,7 +17,7 @@ Performed a basic vulnerability scan, reviewing system configurations, missing p
 
 Documented the scan results, including risk levels, CVE references, and affected services.
 
-Provided recommended remediation steps based on best practices and vendor guidance.
+Provided recommended remediation steps based on best practices .
 </p>
 
 <p>https://youtu.be/boLCDoLeg3M</p>
