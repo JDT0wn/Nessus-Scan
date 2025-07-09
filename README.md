@@ -42,6 +42,8 @@ Overall, this lab provided hands-on experience with one of the industry’s most
  
   <br>
   </br>
+
+  <h1>Scan results and remediations</h1>
 </p>
   
 <p>
