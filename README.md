@@ -73,10 +73,59 @@ Recommended remediation for these vulnerabilites would be: Upgrade to Node.js ve
 
 <br>
 
-Description of vulnerability: Detected version of tornado python package pre-dates 6.4.2, possible dos vulnerability. CVSS score 7.5
+
+
 </br>
 
-Recommmended remediation: Upgrade to Tornado version 6.5.0 or later
+
+Description of vulnerability: Detected version of tornado python package pre-dates 6.4.2, possible dos vulnerability. CVSS score 7.5
+
+<br>
+
+
+
+</br>
+
+
+Recommmended remediation: Upgrade to Tornado version 6.5.0 or later 
+
+<br>
+
+
+
+</br>
+
+
+
+![image](https://github.com/user-attachments/assets/8c2dcdf3-2441-4b18-98e8-efbed7e895f7)
+![image](https://github.com/user-attachments/assets/53168825-8b92-4650-9c95-7294f7f9d758)
+
+
+<br>
+
+
+
+</br>
+
+
+Description of vulnerability: The server's X.509 certificate cannot be trusted,possible server authenticity/identity issues.  CVSS score 6.5
+
+<br>
+
+</br>
+
+Recommmended remediation: Purchase or generate a proper SSL certificate for this service.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
