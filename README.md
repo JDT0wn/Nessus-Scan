@@ -11,7 +11,7 @@ Key Tasks and Skills Demonstrated:
 
 Configured a Kali Linux virtual machine 
 
-Installed and set up Tenable Nessus to scan the host system for vulnerabilities.
+Deployed and set up Tenable Nessus to scan the host system for vulnerabilities.
 
 Performed a basic vulnerability scan, reviewing system configurations, missing patches, and potential exploit risks.
 
